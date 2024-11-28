@@ -17,8 +17,8 @@ This project implements a network traffic anomaly detection system leveraging ma
 ## **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/Wisammad/wireshark_automation.git
+   cd wireshark_automation
    ```
 2. Create a virtual environment and activate it:
    ```bash
